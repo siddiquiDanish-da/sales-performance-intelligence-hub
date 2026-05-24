@@ -1,0 +1,36 @@
+ProductID,ProductName,Category,CostPrice,SellingPrice
+P001,Samsung Galaxy S24 Ultra,Electronics,62000,89999
+P002,Apple iPhone 15 Pro,Electronics,85000,119999
+P003,OnePlus 12 5G,Electronics,48000,64999
+P004,Sony WH-1000XM5 Headphones,Electronics,18000,29999
+P005,Apple AirPods Pro 2nd Gen,Electronics,14000,24999
+P006,boAt Rockerz 450 Headphones,Electronics,800,1499
+P007,LG 55 inch OLED TV,Electronics,55000,89999
+P008,Dell Inspiron 15 Laptop,Electronics,42000,59999
+P009,HP Pavilion All-in-One PC,Electronics,38000,52999
+P010,Canon EOS R50 Camera,Electronics,44000,65999
+P011,Nike Air Max 270,Fashion,4500,7999
+P012,Adidas Ultraboost 22,Fashion,8000,13999
+P013,Levis 511 Slim Fit Jeans,Fashion,1800,3499
+P014,Allen Solly Formal Shirt,Fashion,900,1799
+P015,Zara Trench Coat,Fashion,3500,6999
+P016,Peter England Chino Pants,Fashion,1100,2199
+P017,Puma RS-X Sneakers,Fashion,3200,5999
+P018,HM Floral Midi Dress,Fashion,1200,2499
+P019,Nescafe Gold Blend Coffee 200g,Food and Beverage,350,599
+P020,Tata Tea Premium 500g,Food and Beverage,160,299
+P021,Amul Dark Chocolate 150g,Food and Beverage,80,149
+P022,Tropicana Orange Juice 1L,Food and Beverage,60,110
+P023,Bournvita Health Drink 500g,Food and Beverage,180,329
+P024,Haldirams Bhujia 400g,Food and Beverage,90,175
+P025,Philips Air Fryer HD9200,Home Appliances,4500,7999
+P026,Prestige Induction Cooktop,Home Appliances,1800,3299
+P027,Dyson V12 Vacuum Cleaner,Home Appliances,28000,43999
+P028,Pigeon Electric Kettle 1.5L,Home Appliances,600,1099
+P029,Havells Ceiling Fan 1200mm,Home Appliances,1400,2599
+P030,Bajaj Mixer Grinder 750W,Home Appliances,1200,2199
+P031,Cosco Synthetic Football,Sports,350,699
+P032,Yonex Badminton Racket,Sports,800,1599
+P033,Nivia Cricket Bat English Willow,Sports,1500,2999
+P034,Decathlon Swimming Goggles,Sports,400,799
+P035,Nike DriFIT Running T-Shirt,Sports,900,1799

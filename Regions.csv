@@ -1,0 +1,11 @@
+RegionID,RegionName,Country,Continent
+R01,North India,India,Asia
+R02,South India,India,Asia
+R03,West India,India,Asia
+R04,East India,India,Asia
+R05,USA East,United States,North America
+R06,USA West,United States,North America
+R07,United Kingdom,United Kingdom,Europe
+R08,Germany,Germany,Europe
+R09,UAE,United Arab Emirates,Middle East
+R10,Australia,Australia,Oceania

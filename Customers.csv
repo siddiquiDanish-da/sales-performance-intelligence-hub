@@ -1,0 +1,36 @@
+CustomerID,CustomerName,Email,Segment,City,JoinDate,RegionID
+C001,Priya Sharma,priya.sharma@gmail.com,Retail,Mumbai,2022-03-15,R03
+C002,Rahul Mehta,rahul.mehta@outlook.com,Corporate,Delhi,2021-07-22,R01
+C003,Ananya Iyer,ananya.iyer@yahoo.com,Retail,Bengaluru,2022-11-05,R02
+C004,Kiran Patel,kiran.patel@gmail.com,Wholesale,Ahmedabad,2020-05-18,R03
+C005,Rohan Verma,rohan.verma@gmail.com,Corporate,Noida,2023-01-10,R01
+C006,Sanya Kapoor,sanya.kapoor@hotmail.com,Retail,Chandigarh,2022-08-30,R01
+C007,Vikram Nair,vikram.nair@gmail.com,Wholesale,Kochi,2021-02-14,R02
+C008,Deepika Rao,deepika.rao@gmail.com,Retail,Hyderabad,2023-04-20,R02
+C009,Arjun Singh,arjun.singh@yahoo.com,Corporate,Pune,2020-09-12,R03
+C010,Meera Krishnan,meera.k@gmail.com,Retail,Chennai,2022-06-25,R02
+C011,Aditya Joshi,aditya.joshi@gmail.com,Wholesale,Nagpur,2021-11-08,R03
+C012,Pooja Gupta,pooja.gupta@outlook.com,Retail,Jaipur,2023-02-17,R01
+C013,Suresh Pillai,suresh.pillai@gmail.com,Corporate,Thiruvananthapuram,2020-04-03,R02
+C014,Ritu Agarwal,ritu.agarwal@gmail.com,Retail,Lucknow,2022-12-22,R01
+C015,Manish Tiwari,manish.tiwari@yahoo.com,Wholesale,Patna,2021-06-15,R04
+C016,Kavitha Reddy,kavitha.reddy@gmail.com,Retail,Visakhapatnam,2023-05-09,R02
+C017,Nikhil Desai,nikhil.desai@gmail.com,Corporate,Surat,2020-10-28,R03
+C018,Swati Banerjee,swati.banerjee@hotmail.com,Retail,Kolkata,2022-07-14,R04
+C019,Gaurav Malhotra,gaurav.m@outlook.com,Wholesale,Amritsar,2021-03-30,R01
+C020,Lakshmi Narayanan,lakshmi.n@gmail.com,Retail,Coimbatore,2023-09-01,R02
+C021,James Anderson,j.anderson@gmail.com,Corporate,New York,2021-05-20,R05
+C022,Emily Carter,emily.carter@outlook.com,Retail,Boston,2022-03-11,R05
+C023,Michael Thompson,m.thompson@yahoo.com,Wholesale,Los Angeles,2020-08-17,R06
+C024,Sarah Williams,s.williams@gmail.com,Retail,San Francisco,2023-01-25,R06
+C025,David Johnson,david.j@hotmail.com,Corporate,Chicago,2021-10-05,R05
+C026,Oliver Smith,oliver.smith@gmail.com,Retail,London,2022-05-18,R07
+C027,Charlotte Brown,c.brown@outlook.com,Corporate,Manchester,2020-12-09,R07
+C028,Hans Mueller,hans.muller@gmail.com,Wholesale,Berlin,2021-07-03,R08
+C029,Lena Wagner,lena.wagner@yahoo.com,Retail,Munich,2023-03-14,R08
+C030,Ahmed Al-Rashidi,ahmed.rashidi@gmail.com,Corporate,Dubai,2022-09-22,R09
+C031,Fatima Al-Farsi,fatima.alfarsi@outlook.com,Retail,Abu Dhabi,2021-04-16,R09
+C032,Liam O Brien,liam.obrien@gmail.com,Wholesale,Sydney,2020-11-27,R10
+C033,Emma Wilson,emma.wilson@yahoo.com,Retail,Melbourne,2023-06-08,R10
+C034,Raj Bhatnagar,raj.bhatnagar@gmail.com,Corporate,Delhi,2022-01-19,R01
+C035,Sneha Kulkarni,sneha.k@gmail.com,Retail,Pune,2021-08-24,R03
